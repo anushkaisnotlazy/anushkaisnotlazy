@@ -1,9 +1,8 @@
 # Namaste 🙏
-### You're viewing `anushkaisnotlazy's` profile 😎
-### I build and break code here- one bit at a time 💻
-### I and Mona firmly believe that:
-![image](https://github.com/user-attachments/assets/fdd8fbe2-98d3-4043-aa84-f7d508e0c1f1)
-
+- You're viewing `anushkaisnotlazy's` profile 😎
+-  I build and break code here- one bit at a time 💻
+-  I and Mona firmly believe that:
+<img src="https://github.com/user-attachments/assets/fdd8fbe2-98d3-4043-aa84-f7d508e0c1f1" width="400" height="400">
 So let's make some cool stuff with code, cheers!
 <!--
 **anushkaisnotlazy/anushkaisnotlazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
